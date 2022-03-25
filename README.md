@@ -7,5 +7,5 @@ Hello I'm Ahmet .Very lively and quick learner guy who loves to create new thing
 
 I'm currently working on Go-Lang which i love most and hoping to create wonderful things out of it ...
 
-- 
+
 ![snake svg](https://github.com/ASaidOguz/ASaidOguz/blob/output/github-contribution-grid-snake.svg)
