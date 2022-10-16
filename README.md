@@ -29,12 +29,11 @@ I'm currently working on Go-Lang which i love most and hoping to create wonderfu
 ### Badges
 
 <b>My GitHub Stats</b>
-<div>
+
 <a href="http://www.github.com/ASaidoguz"><img src="https://github-readme-stats.vercel.app/api?username=ASaidoguz&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ASaidoguz's GitHub stats"/></a>
 
-<a align="left" href="http://www.github.com/ASaidoguz"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ASaidoguz&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-</div>
-<a href="http://www.github.com/ASaidoguz"><img src="https://activity-graph.herokuapp.com/graph?username=ASaidoguz&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+
 
 
 ![snake svg](https://github.com/ASaidOguz/ASaidOguz/blob/output/github-contribution-grid-snake.svg)
