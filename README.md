@@ -36,11 +36,12 @@ I'm currently working on Go-Lang which i love most and hoping to create wonderfu
 
 
 
-![snake svg](https://github.com/ASaidOguz/ASaidOguz/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/ASaidOguz/ASaidOguz/output/github-contribution-grid-snake.svg)
+
 
 
 
 
 --- VISITORS:
-             ![Visitor Count](https://profile-counter.glitch.me/{ASaidOguz}/count.svg)
+         ![Visitor Count](https://profile-counter.glitch.me/ASaidOguz/count.svg)
 
